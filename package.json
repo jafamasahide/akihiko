@@ -1,0 +1,29 @@
+{
+  "name": "node-ts-template",
+  "version": "0.0.1",
+  "engines": {
+    "node": "18.15.0"
+  },
+  "description": "Basic configuration template for node projects using Typescript",
+  "keywords": [
+    "Typescript",
+    "NodeJS"
+  ],
+  "author": {
+    "name": "Jafa Masahide",
+    "email": "jafamasahide@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "17.5.0",
+    "@commitlint/config-conventional": "17.4.4",
+    "@rocketseat/eslint-config": "1.2.0",
+    "@types/node": "18.15.7",
+    "eslint": "8.36.0",
+    "husky": "8.0.3",
+    "typescript": "5.0.2"
+  }
+}

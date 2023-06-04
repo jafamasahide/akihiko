@@ -1,0 +1,16 @@
+# System
+.DS_STORE
+
+# Dependencies
+node_modules
+
+# Testing
+coverage
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+dist
