@@ -1,5 +1,5 @@
-# node-ts-template
-Basic configuration template for node projects using Typescript
+# akihiko
+Akihiko is a finance manager to help you keep track of your wallet
 
 ## First steps
 

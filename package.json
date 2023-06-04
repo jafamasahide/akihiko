@@ -1,10 +1,10 @@
 {
-  "name": "node-ts-template",
+  "name": "akihiko",
   "version": "0.0.1",
   "engines": {
     "node": "18.16.0"
   },
-  "description": "Basic configuration template for node projects using Typescript",
+  "description": "Akihiko is a finance manager to help you keep track of your wallet",
   "keywords": [
     "Typescript",
     "NodeJS"
