@@ -12,6 +12,16 @@
     "baseUrl": "./",
     "incremental": true,
     "skipLibCheck": true,
-    "paths": {}
+    "paths": {
+      "@api/*": [
+        "apps/api/src/*"
+      ],
+      "@akihiko/utils": [
+        "libs/utils/src"
+      ],
+      "@akihiko/utils/*": [
+        "libs/utils/src/*"
+      ]
+    }
   }
 }
